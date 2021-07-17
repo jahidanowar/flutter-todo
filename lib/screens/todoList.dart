@@ -5,7 +5,6 @@ import 'package:todo/utils/dbhelper.dart';
 
 class TodoList extends StatefulWidget {
   const TodoList({Key? key}) : super(key: key);
-
   @override
   _TodoListState createState() => _TodoListState();
 }
